@@ -21,7 +21,7 @@ El caso refuerza el pensamiento algorítmico, la descomposición funcional y las
 ## Contenido del repositorio
 | Archivo | Descripción |
 |----------|--------------|
-| `main.c` | Código fuente en C con la estructura modular completa |
+| `main_case2.c` | Código fuente en C con la estructura modular completa |
 | `README.md` | Documento explicativo del proyecto |
 
 
